@@ -12,5 +12,5 @@ An android application made using Google Map API to save important place and sho
 
 <img src="Screenshots/screenshot2.png" width="350" height="600">
 
-<img src="Screenshots/screenshot3.png" width="350" height="600">
+
 
